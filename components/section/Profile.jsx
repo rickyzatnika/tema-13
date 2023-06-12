@@ -119,10 +119,10 @@ const Profile = () => {
             <div
               data-aos="zoom-in"
               data-aos-duration="1000"
-              className="brush text-6xl font-bold relative my-8 text-[#8b624f]  "
+              className="brush text-6xl font-bold relative my-8 text-[#E3D3BF]  "
             >
               <span>&</span>
-              <div className="absolute -left-2 w-full -z-10 -bottom-11 opacity-80">
+              <div className="absolute -left-2 w-full -z-10 -bottom-11 opacity-70">
                 <Image
                   src="/image/daun.png"
                   alt="daun"
